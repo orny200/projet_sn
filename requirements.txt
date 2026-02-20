@@ -1,12 +1,11 @@
 streamlit
 torch
 torchvision
+pillow
+numpy
+grad-cam
+opencv-python-headless
 neuralprophet
 yfinance
 pandas
-numpy
 matplotlib
-pillow
-grad-cam
-opencv-python-headless
-
